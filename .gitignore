@@ -1,0 +1,4 @@
+Ejercicio_3/entorno/
+__pycache__/
+*.pyc
+db.sqlite3
